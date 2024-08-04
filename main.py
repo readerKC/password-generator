@@ -1,6 +1,6 @@
 import random
 
-karakter_deposu = ("+-/*!&$#?=@abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890")
+karakter_deposu = "+-/*!&$#?=@abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
 
 kul_girdiuzunlugu = int(input("Parolanın uzunluğunu giriniz:"))
 
